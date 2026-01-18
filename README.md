@@ -16,6 +16,8 @@ Clone the repository
 git clone https://github.com/Sapkotasumita/Formik-LoginForm.git
 
 Go to the project directory
+
+Navigate to the project folder
 cd Formik-LoginForm
 
 Install dependencies
@@ -23,3 +25,6 @@ npm install
 
 Start development server
 npm run dev
+
+The app will run at:
+http://localhost:5173
